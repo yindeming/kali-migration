@@ -1,2 +1,4 @@
-# kali-migration
-Migrating from old version to new.
+
+For new install.
+# kali-os
+# win-10-os
